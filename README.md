@@ -11,3 +11,6 @@
     
 ## Table of Contents: 
 ➡ [** Here some of my Patterns **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Patterns)
+
+➡ [** Rock, Paper, Scissors **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Rock_paper_scissors)
+
