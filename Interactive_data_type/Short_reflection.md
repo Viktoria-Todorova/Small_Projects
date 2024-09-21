@@ -19,3 +19,7 @@ I will write a Python program that:
 - **Working with lists, tuples, and dictionaries** 📋🗂️
 - **Error handling** 🚫
 - **User input & output** 🖥️
+
+➡ [**The project**](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Interactive_data_type/Interactive_data_type.py)
+
+➡ [**Also the project with extra spice**](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Interactive_data_type/Interactive_data_type_extras.py) I added colors to make it easier to the user to read and separate the different steps of the choices i give him
