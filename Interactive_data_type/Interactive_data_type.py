@@ -67,17 +67,21 @@ while True:
 
         print(f"Number of vowels: {vowel_count}")
         print(f"Number of consonants: {consonant_count}")
+        
         print("Lets try something else, answer only with one word:")
+        
         name = input("Give me your name:")
         city = input("Give me the city you were born:")
         color = input("Give me your favorite color:")
         movie = input("Give me your favorite movie:")
         hobie = input("Give me your number one hobie:")
+        
         print(
             f"You are {name} from {city}, "
             f"your favorite color is:{color}, "
             f"your favorite movie is:{movie} "
             f"and your number one hobie is {hobie}")
+        
         print("Let's try some concatenating")
         word1 = input("Give me your first word of choice:")
         word2 = input("Give me your second word of choice:")
