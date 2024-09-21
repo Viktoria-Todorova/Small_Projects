@@ -14,3 +14,7 @@
 
 ➡ [** Rock, Paper, Scissors **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Rock_paper_scissors)
 
+➡ [** Interactive Data Type Operations System **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Interactive_data_type)
+
+
+
