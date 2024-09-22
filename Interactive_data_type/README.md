@@ -1,5 +1,9 @@
 🎓 Interactive Data Type Operations System
 
+<div align="center">
+  <img src="https://realpython.com/cdn-cgi/image/width=960,format=auto/https://files.realpython.com/media/Basic-Data-Types-in-Python_Watermarked.e3dd34457952.jpg">
+</div>
+
 Welcome to my interactive Python project ! In this exercise, I will create a dynamic script where I get to choose a data type and perform related operations. The goal is to reinforce my understanding of Python data types, including strings, numbers, booleans, lists, tuples, and dictionaries, by implementing different actions based on my input.
 
 🌟 Project Overview
