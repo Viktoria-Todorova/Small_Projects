@@ -10,11 +10,15 @@
   <li><strong>Here you can check some of the projects i did extra.</li>
     
 ## Table of Contents: 
-➡ [** Here some of my Patterns **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Patterns)
+➡ [Here some of my Patterns ](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Patterns)
 
-➡ [** Rock, Paper, Scissors **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Rock_paper_scissors)
+➡ [Rock, Paper, Scissors ](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Rock_paper_scissors)
 
-➡ [** Interactive Data Type Operations System **](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Interactive_data_type)
+➡ [Interactive Data Type Operations System ](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Interactive_data_type)
+
+➡ [Number Guessing Game](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Guess_a_number)
+
+
 
 
 
