@@ -27,3 +27,7 @@ I will write a Python program that:
 ➡ [**The project**](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Interactive_data_type/Interactive_data_type.py)
 
 ➡ [**Also the project with extra spice**](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Interactive_data_type/Interactive_data_type_extras.py) I added colors to make it easier to the user to read and separate the different steps of the choices i give him
+
+> [!NOTE]
+> You can also try the game from this Replit link and have fun [<img alt="Play Button" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" width="40" />](https://replit.com/@viktoriatodoro1/Interactivedatatype)  
+
