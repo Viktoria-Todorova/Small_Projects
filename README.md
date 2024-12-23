@@ -20,6 +20,10 @@
 
 ➡ [Bank Account Management System](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Bank_Account_Managment_System)
 
+➡ [Fitness Trainig App](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Fitness_Trainig_App)
+
+➡ [Flashcard Study App](https://github.com/Viktoria-Todorova/Small_Projects/tree/Projects/Flashcard%20Study%20App)
+
 
 
 
