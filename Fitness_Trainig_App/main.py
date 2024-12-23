@@ -122,16 +122,38 @@ def main():
             else:  # If the user doesn't exist
                 print(f"User '{name}' not found.")  # Error message
 
+
+
         elif choice == "4":  # If user selects option 4
+
             # Viewing workout history
+
             name = input("Enter the user's name: ")  # Prompt for user name
+
             if name in users:  # Check if the user exists
+
                 history = users[name].workout_history  # Get workout history for the user
+
                 print("\nWorkout History:")  # Print the header for workout history
+
                 for workout in history:  # Loop through each workout in the history
-                    print(workout)  # Print each workout entry
+
+                    print(f"Workout: {workout['workout_name']}, Date: {workout['date']}")  # Print workout name and date
+
+                    # Join exercises as strings (assuming 'exercises' is a list of tuples like ('squat', '3 sets of 10'))
+
+                    exercises_str = ", ".join([f"{exercise[0]} ({exercise[1]})" for exercise in
+                                               workout['exercises']])  # Convert each tuple into a string
+
+                    print(f"Exercises: {exercises_str}")  # Print the exercises as a string
+
+                    print("---")  # Separator between workouts
+
             else:  # If the user doesn't exist
+
                 print(f"User '{name}' not found.")  # Error message
+
+
 
         elif choice == "5":  # If user selects option 5
             # Generating progress report
