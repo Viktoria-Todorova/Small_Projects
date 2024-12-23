@@ -18,3 +18,19 @@ The Fitness Training App is a Python project where I applied object-oriented pro
 Understand OOP concepts 🧑‍💻: I focused on core OOP ideas like classes, objects, encapsulation, inheritance, and polymorphism.
 Design a system 🛠️: I built a system that handles users, exercises, workout routines, and progress tracking.
 Organize Python code 📂: I learned how to split the code into different modules, keeping everything clear and reusable.
+
+
+
+### Project Structure
+
+├── [user.py](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Fitness_Trainig_App/user.py)           # Contains the User class
+
+├── [exercise.py](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Fitness_Trainig_App/exercise.py)       # Contains the Exercise class
+
+├── [workout.py](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Fitness_Trainig_App/workout.py)        # Contains the Workout class
+
+├── [progress.py](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Fitness_Trainig_App/progress.py)       # Contains the ProgressTracker class
+
+├── [main.py](https://github.com/Viktoria-Todorova/Small_Projects/blob/Projects/Fitness_Trainig_App/main.py)           # Main script to run the application (menu system)
+
+├── README.md         # Project documentation
