@@ -68,10 +68,10 @@ I implemented a simple text-based interface to allow users to interact with the 
 
 ## Some skreenshots of the process
 
-![1](https://github.com/user-attachments/assets/301a88a0-2db5-4fc9-b6d7-f3f76ca15828)
+![1](https://github.com/user-attachments/assets/28edfd89-31de-41f0-8f87-149b0ac2e504)
 
-![2](https://github.com/user-attachments/assets/45f78691-4257-4156-adf4-944d208ff67b)
 
+![2](https://github.com/user-attachments/assets/d10b35d9-0ab9-4080-ba08-944998fba842)
 
 
 # Conclusion 🎉
